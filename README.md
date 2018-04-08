@@ -24,7 +24,28 @@
 
 5. 加载
 命令：systemctl reload named.service
+
+6. rndc
+rndc status : 查看DNS的工作状态
+rndc stats : 查看DNS的状态统计信息
+rndc stop : 停止DNS服务
+rndc flush : 清空服务器缓存
+rndc reload : 重置加载配置文件
 ```
 
+# 工具
+> dig
 
+```
+```
+
+> host
+
+```
+```
+
+> nslookup
+
+```
+```
 
